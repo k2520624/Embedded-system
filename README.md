@@ -4,6 +4,9 @@
 * 강동훈  
 * 이승헌
 
+※ **영상주소**  
+https://www.youtube.com/watch?v=524T28MoZyY  
+
 ※ **블럭도**  
   
 ![블럭도](https://user-images.githubusercontent.com/94602281/174634629-fbf67d49-8fea-4d10-8dd1-56cd1eca2711.PNG)
