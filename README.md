@@ -15,12 +15,12 @@ https://www.youtube.com/watch?v=524T28MoZyY
   
 ![imbeded](https://user-images.githubusercontent.com/94602281/174634908-e282e40a-89a9-4271-ad0f-3b7896b6db5d.png)
 
-**1. IMU**  
+**1. IMU(SLM6DSOX)**  
 * 3축 가속도와 3축 자이로 센서를 조합한 후 각각의 센서 출력을 내보내는 장치를 관성측정장치(IMU;Inertial Measurement Unit)이라고 부른다.  
 * 종류에 따라 자이로스코프 가속도계만 있는 6축센서, 자이로스코프와 가속도계, 지자기센서까지 포함한 9축센서도 있다.  
 * 스마트폰에도 탑재되어 있을 정도로 그 용도가 근래에 흔하며, 비행기의 항법 장치에 필수적인 요소입니다.  
   
-**2. Omnidirectional Digital Microphone**  
+**2. Omnidirectional Digital Microphone(MP34DT05)**  
 * IMP34DT05는 정전 용량 감지 요소와 I2C 인터페이스로 제작된 초소형, 저전력, 무지향성, 디지털 MEMS 마이크입니다.  
 * IMP34DT05는 신호 대 잡음비가 64dB이고 감도가 -26dBFS ±3dB인 저왜곡 디지털 마이크입니다.  
 * IMP34DT05는 상단 포트, SMD 호환, EMI 차폐 패키지로 제공되며 -40°C ~ +85°C의 확장된 온도 범위에서 작동하도록 보장됩니다.  
